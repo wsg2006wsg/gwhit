@@ -1,0 +1,2 @@
+MAINTAINER wangsg <wang.root@sohu.com>
+FROM gcr.io/google-containers/kube-scheduler-amd64:v1.13.3
